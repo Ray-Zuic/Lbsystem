@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LbsysApplication {
 
     public static void main(String[] args) {
+        System.out.println("asd");
         SpringApplication.run(LbsysApplication.class, args);
     }
 
